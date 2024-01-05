@@ -1,0 +1,5 @@
+Print (a+b)
+=ab
+My foot
+Print (a-b)
+=-ab
